@@ -19,7 +19,7 @@ def home():
     return "RK-SYSTEM IS LIVE!"
 
 def run_web():
-    app.run(host='0.0.0.0', port=10000)
+    app.run(host='0.0.0.0', port=10654)
 
 # ---------- CONFIG ----------
 API_TOKEN = '8519607285:AAFFBo2m3QiMmh00MUzt3Q6DbVWAipa5INg'
